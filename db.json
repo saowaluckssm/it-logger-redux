@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "message": "Help Buu station 001",
+      "attention": true,
+      "tech": "Sarah Lee",
+      "date": "2021-07-15T00:25:44.789Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "feed Buu at 7 buu confirm",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-07-17T02:46:46.138Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Buu",
+      "lastName": "Morales",
+      "id": 8
+    }
+  ]
+}
